@@ -1,0 +1,20 @@
+{
+  "Assets": [
+    {
+      "PackageId": "OwlysStudio.NaabiFloat.Beta",
+      "Type": "Full",
+      "Version": "0.1.0-beta.10",
+      "FileName": "OwlysStudio.NaabiFloat.Beta-0.1.0-beta.10-beta-full.nupkg",
+      "SHA256": "4a69239fc2954c18c392be901b3180ea32a1024be356f6cc28343ea30f559512",
+      "Size": 8804881
+    },
+    {
+      "PackageId": "OwlysStudio.NaabiFloat.Beta",
+      "Type": "Setup",
+      "Version": "0.1.0-beta.10",
+      "FileName": "NaabiFloat-0.1.0-beta.10-Setup-x64.exe",
+      "SHA256": "0df8d1f99a90795dfff31813fe84415f42e2072e7aa2591b1d42316d3fdc6833",
+      "Size": 16352785
+    }
+  ]
+}
